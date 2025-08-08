@@ -49,7 +49,7 @@ Build your chroma_db folder with internal vet knowledge (see data/ or relevant s
 
 Run the app
 ```bash
-streamlit run app.py
+streamlit run multi_agent.py
 ```
 
 🐕 Example Use
